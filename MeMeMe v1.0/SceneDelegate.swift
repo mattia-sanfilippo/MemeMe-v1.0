@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Pick Test
+//  MemeMe v1.0
 //
 //  Created by Mattia Sanfilippo on 07/04/2020.
 //  Copyright © 2020 Mattia Sanfilippo. All rights reserved.

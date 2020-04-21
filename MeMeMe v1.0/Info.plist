@@ -20,6 +20,12 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera Access is needed in order to capture an image for a meme!</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We need to save your meme somewhere!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Access to Photo Library is needed in order to pick an image for a meme!</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
